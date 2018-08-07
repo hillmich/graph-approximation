@@ -1,0 +1,4 @@
+text.latex.preamble : \usepackage{libertine}, \usepackage{libertinust1math}, \usepackage{mathtools}, \usepackage{amssymb}, \usepackage{siunitx}, \newlength{\elen},
+text.usetex : True
+pgf.preamble :        \usepackage{libertine}, \usepackage{libertinust1math}, \usepackage{mathtools}, \usepackage{amssymb}, \usepackage{siunitx}, \newlength{\elen},
+figure.figsize : 5.6, 3.1
