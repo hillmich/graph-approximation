@@ -1,6 +1,6 @@
 networkx==2.1
 numpy==1.14.*
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 scikit-image==0.13.1
 scipy==1.0.0
 
